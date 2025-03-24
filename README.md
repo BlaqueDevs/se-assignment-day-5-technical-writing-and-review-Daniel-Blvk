@@ -72,3 +72,8 @@ subheadings give more information on paragraphs that follow them. they act as po
 in the readme file, the project or product functionality is explained in order to make the user or fellow developers understand what you are working on and what it is all about.
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
+
+1. explain what the product does
+2. explain why the product performs the tasks being talked about and the problems being solved.
+3. explain features of the product and the advantages it brings
+4. explain how the target audience will benefit from utilizing the product
